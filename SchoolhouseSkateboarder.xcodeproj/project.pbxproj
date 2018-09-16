@@ -15,6 +15,7 @@
 		B221148D214DC5A800F4EF4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B221148B214DC5A800F4EF4B /* Main.storyboard */; };
 		B221148F214DC5A900F4EF4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B221148E214DC5A900F4EF4B /* Assets.xcassets */; };
 		B2211492214DC5A900F4EF4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2211490214DC5A900F4EF4B /* LaunchScreen.storyboard */; };
+		B221149A214DCF8B00F4EF4B /* Skater.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2211499214DCF8B00F4EF4B /* Skater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B221148E214DC5A900F4EF4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2211491214DC5A900F4EF4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2211493214DC5A900F4EF4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2211499214DCF8B00F4EF4B /* Skater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				B2211485214DC5A800F4EF4B /* Actions.sks */,
 				B2211487214DC5A800F4EF4B /* GameScene.swift */,
 				B2211489214DC5A800F4EF4B /* GameViewController.swift */,
+				B2211499214DCF8B00F4EF4B /* Skater.swift */,
 				B221148B214DC5A800F4EF4B /* Main.storyboard */,
 				B221148E214DC5A900F4EF4B /* Assets.xcassets */,
 				B2211490214DC5A900F4EF4B /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2211488214DC5A800F4EF4B /* GameScene.swift in Sources */,
+				B221149A214DCF8B00F4EF4B /* Skater.swift in Sources */,
 				B221148A214DC5A800F4EF4B /* GameViewController.swift in Sources */,
 				B2211482214DC5A800F4EF4B /* AppDelegate.swift in Sources */,
 			);
